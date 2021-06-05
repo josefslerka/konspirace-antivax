@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-06-05">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="v_name" title="name" type="string"></attribute>
+      <attribute id="v_shares" title="shares" type="double"></attribute>
+      <attribute id="v_coord.shares" title="coord.shares" type="double"></attribute>
+      <attribute id="v_account.avg.subscribercount" title="account.avg.subscriberCount" type="double"></attribute>
+      <attribute id="v_account.name" title="account.name" type="string"></attribute>
+      <attribute id="v_degree" title="degree" type="double"></attribute>
+      <attribute id="v_component" title="component" type="double"></attribute>
+      <attribute id="v_cluster" title="cluster" type="double"></attribute>
+      <attribute id="v_strength" title="strength" type="double"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="n0" label="Referendum o odvolaní Zuzany Čaputovej z funkcie prezidenta SR">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/637031686760444"></attvalue>
+          <attvalue for="v_shares" value="21.0"></attvalue>
+          <attvalue for="v_coord.shares" value="13.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="13320.0"></attvalue>
+          <attvalue for="v_account.name" value="Referendum o odvolaní Zuzany Čaputovej z funkcie prezidenta SR"></attvalue>
+          <attvalue for="v_degree" value="39.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_strength" value="138.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="7.284264"></viz:size>
+        <viz:position x="-226.93405" y="-80.481255"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n1" label="Přátele Miloše Zemana">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/1407625852868514"></attvalue>
+          <attvalue for="v_shares" value="23.0"></attvalue>
+          <attvalue for="v_coord.shares" value="12.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="18161.0"></attvalue>
+          <attvalue for="v_account.name" value="Přátele Miloše Zemana"></attvalue>
+          <attvalue for="v_degree" value="40.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_strength" value="146.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="7.5380707"></viz:size>
+        <viz:position x="-15.392106" y="-28.024942"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n2" label="&#x1f60d;Romano&#x1f5a4;jiloro&#x1f30d;">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1260468564040808"></attvalue>
+          <attvalue for="v_shares" value="6.0"></attvalue>
+          <attvalue for="v_coord.shares" value="5.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="59566.0"></attvalue>
+          <attvalue for="v_account.name" value="&#x1f60d;Romano&#x1f5a4;jiloro&#x1f30d;"></attvalue>
+          <attvalue for="v_degree" value="33.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_strength" value="105.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.3807106"></viz:size>
+        <viz:position x="-5.2597623" y="-147.29372"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n3" label="TVOŘIT A CHRÁNIT – CZ/SK">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1552114588364251"></attvalue>
+          <attvalue for="v_shares" value="38.0"></attvalue>
+          <attvalue for="v_coord.shares" value="21.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="16523.0"></attvalue>
+          <attvalue for="v_account.name" value="TVOŘIT A CHRÁNIT – CZ/SK"></attvalue>
+          <attvalue for="v_degree" value="41.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="182.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="9.441625"></viz:size>
+        <viz:position x="-154.03368" y="129.09613"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n4" label="Priatelia Ruska v Slovenskej Republike">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/838586442825622"></attvalue>
+          <attvalue for="v_shares" value="23.0"></attvalue>
+          <attvalue for="v_coord.shares" value="8.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="10606.0"></attvalue>
+          <attvalue for="v_account.name" value="Priatelia Ruska v Slovenskej Republike"></attvalue>
+          <attvalue for="v_degree" value="30.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="101.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="7.5380707"></viz:size>
+        <viz:position x="-346.95987" y="-130.49492"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n5" label="Občiansky tribunál - oficiálna FB skupina">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/261504184013272"></attvalue>
+          <attvalue for="v_shares" value="14.0"></attvalue>
+          <attvalue for="v_coord.shares" value="10.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="319.0"></attvalue>
+          <attvalue for="v_account.name" value="Občiansky tribunál - oficiálna FB skupina"></attvalue>
+          <attvalue for="v_degree" value="29.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="98.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.395939"></viz:size>
+        <viz:position x="-116.338585" y="-176.72527"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n6" label="Máme toho dosť! Nahnevaní Slováci">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/403200340811310"></attvalue>
+          <attvalue for="v_shares" value="64.0"></attvalue>
+          <attvalue for="v_coord.shares" value="21.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="13264.0"></attvalue>
+          <attvalue for="v_account.name" value="Máme toho dosť! Nahnevaní Slováci"></attvalue>
+          <attvalue for="v_degree" value="36.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="143.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.741117"></viz:size>
+        <viz:position x="-153.41756" y="46.10533"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n7" label="Referendum o predčasných voľbách 2021">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/396083741437616"></attvalue>
+          <attvalue for="v_shares" value="58.0"></attvalue>
+          <attvalue for="v_coord.shares" value="38.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="19435.0"></attvalue>
+          <attvalue for="v_account.name" value="Referendum o predčasných voľbách 2021"></attvalue>
+          <attvalue for="v_degree" value="36.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="141.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.979696"></viz:size>
+        <viz:position x="-483.03317" y="-48.087708"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n8" label="Generál Blaško v EU parlamentu.!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/266463200655469"></attvalue>
+          <attvalue for="v_shares" value="20.0"></attvalue>
+          <attvalue for="v_coord.shares" value="10.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="7502.0"></attvalue>
+          <attvalue for="v_account.name" value="Generál Blaško v EU parlamentu.!"></attvalue>
+          <attvalue for="v_degree" value="26.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="106.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="7.15736"></viz:size>
+        <viz:position x="-341.72324" y="-10.1805"></viz:position>
+        <viz:color r="155" g="190" b="219"></viz:color>
+      </node>
+      <node id="n9" label="Planéta Jednoduchosť - FB skupina">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/463539031198256"></attvalue>
+          <attvalue for="v_shares" value="24.0"></attvalue>
+          <attvalue for="v_coord.shares" value="11.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="3575.0"></attvalue>
+          <attvalue for="v_account.name" value="Planéta Jednoduchosť - FB skupina"></attvalue>
+          <attvalue for="v_degree" value="39.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="162.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="7.6649747"></viz:size>
+        <viz:position x="-284.70422" y="19.386766"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n10" label="Chemtrails Slovensko">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/538471736326941"></attvalue>
+          <attvalue for="v_shares" value="16.0"></attvalue>
+          <attvalue for="v_coord.shares" value="12.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="3260.0"></attvalue>
+          <attvalue for="v_account.name" value="Chemtrails Slovensko"></attvalue>
+          <attvalue for="v_degree" value="24.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="106.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.649746"></viz:size>
+        <viz:position x="-449.20062" y="131.81528"></viz:position>
+        <viz:color r="198" g="214" b="232"></viz:color>
+      </node>
+      <node id="n11" label="Generál Hynek Blaško - za naši vlast!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1924827217616072"></attvalue>
+          <attvalue for="v_shares" value="34.0"></attvalue>
+          <attvalue for="v_coord.shares" value="13.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="7506.0"></attvalue>
+          <attvalue for="v_account.name" value="Generál Hynek Blaško - za naši vlast!"></attvalue>
+          <attvalue for="v_degree" value="26.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="95.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.93401"></viz:size>
+        <viz:position x="-296.94647" y="188.32924"></viz:position>
+        <viz:color r="241" g="238" b="246"></viz:color>
+      </node>
+      <node id="n12" label="Czexit">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/143233759418419"></attvalue>
+          <attvalue for="v_shares" value="11.0"></attvalue>
+          <attvalue for="v_coord.shares" value="5.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="1741.0"></attvalue>
+          <attvalue for="v_account.name" value="Czexit"></attvalue>
+          <attvalue for="v_degree" value="30.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="103.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.0152283"></viz:size>
+        <viz:position x="16.471653" y="69.58997"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n13" label="Covidu se nebojíme, bojíme se &quot;opatření&quot; - Nechte nás na pokoji!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/2693238824232801"></attvalue>
+          <attvalue for="v_shares" value="84.0"></attvalue>
+          <attvalue for="v_coord.shares" value="26.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="12284.0"></attvalue>
+          <attvalue for="v_account.name" value="Covidu se nebojíme, bojíme se &quot;opatření&quot; - Nechte nás na pokoji!"></attvalue>
+          <attvalue for="v_degree" value="31.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="112.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.279187"></viz:size>
+        <viz:position x="18.077581" y="158.75313"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n14" label="Stop Kebab">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1107489292640948"></attvalue>
+          <attvalue for="v_shares" value="11.0"></attvalue>
+          <attvalue for="v_coord.shares" value="8.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="2473.0"></attvalue>
+          <attvalue for="v_account.name" value="Stop Kebab"></attvalue>
+          <attvalue for="v_degree" value="24.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_strength" value="99.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.0152283"></viz:size>
+        <viz:position x="-294.1742" y="80.23165"></viz:position>
+        <viz:color r="198" g="214" b="232"></viz:color>
+      </node>
+      <node id="n15" label="Češi, táhněme za jeden provaz">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1678005795706610"></attvalue>
+          <attvalue for="v_shares" value="200.0"></attvalue>
+          <attvalue for="v_coord.shares" value="62.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="27345.0"></attvalue>
+          <attvalue for="v_account.name" value="Češi, táhněme za jeden provaz"></attvalue>
+          <attvalue for="v_degree" value="32.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="118.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-134.48882" y="231.9022"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n16" label="Hlas lidu">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1190735674448685"></attvalue>
+          <attvalue for="v_shares" value="6.0"></attvalue>
+          <attvalue for="v_coord.shares" value="4.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="1209.0"></attvalue>
+          <attvalue for="v_account.name" value="Hlas lidu"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="76.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.3807106"></viz:size>
+        <viz:position x="183.84496" y="185.27948"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n17" label="Svobodné Česko">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/838338540071832"></attvalue>
+          <attvalue for="v_shares" value="120.0"></attvalue>
+          <attvalue for="v_coord.shares" value="27.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="18831.0"></attvalue>
+          <attvalue for="v_account.name" value="Svobodné Česko"></attvalue>
+          <attvalue for="v_degree" value="31.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="108.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="19.847715"></viz:size>
+        <viz:position x="26.42724" y="200.88579"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n18" label="Nostradamus Česko Group">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/2959722857445498"></attvalue>
+          <attvalue for="v_shares" value="9.0"></attvalue>
+          <attvalue for="v_coord.shares" value="5.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="9153.0"></attvalue>
+          <attvalue for="v_account.name" value="Nostradamus Česko Group"></attvalue>
+          <attvalue for="v_degree" value="27.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="86.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.761421"></viz:size>
+        <viz:position x="83.04561" y="0.7668025"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n19" label="Za lepší Česko">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/290987701736860"></attvalue>
+          <attvalue for="v_shares" value="12.0"></attvalue>
+          <attvalue for="v_coord.shares" value="4.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="5381.0"></attvalue>
+          <attvalue for="v_account.name" value="Za lepší Česko"></attvalue>
+          <attvalue for="v_degree" value="26.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="79.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.142132"></viz:size>
+        <viz:position x="146.06328" y="-114.37162"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n20" label="PREDČASNÉ VOĽBY 2021">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1496858927139787"></attvalue>
+          <attvalue for="v_shares" value="17.0"></attvalue>
+          <attvalue for="v_coord.shares" value="3.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="19092.0"></attvalue>
+          <attvalue for="v_account.name" value="PREDČASNÉ VOĽBY 2021"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="75.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.77665"></viz:size>
+        <viz:position x="205.73235" y="129.24588"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n21" label="Pro nespokojené s těmi, co nám vládli a vládnou od roku 1989!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1962717243947963"></attvalue>
+          <attvalue for="v_shares" value="11.0"></attvalue>
+          <attvalue for="v_coord.shares" value="3.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="2251.0"></attvalue>
+          <attvalue for="v_account.name" value="Pro nespokojené s těmi, co nám vládli a vládnou od roku 1989!"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="75.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.0152283"></viz:size>
+        <viz:position x="493.39905" y="-146.03145"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n22" label="Aktivisti proti NESPRAVODLIVOSTI">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/225794765031570"></attvalue>
+          <attvalue for="v_shares" value="8.0"></attvalue>
+          <attvalue for="v_coord.shares" value="6.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="477.0"></attvalue>
+          <attvalue for="v_account.name" value="Aktivisti proti NESPRAVODLIVOSTI"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="75.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.6345177"></viz:size>
+        <viz:position x="328.69376" y="-190.79694"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n23" label="Svobodné rádio">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/554272161394393"></attvalue>
+          <attvalue for="v_shares" value="4.0"></attvalue>
+          <attvalue for="v_coord.shares" value="4.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="3545.0"></attvalue>
+          <attvalue for="v_account.name" value="Svobodné rádio"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="78.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.1269035"></viz:size>
+        <viz:position x="327.66632" y="-14.629504"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n24" label="Politika bez cenzury">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/342276069597737"></attvalue>
+          <attvalue for="v_shares" value="11.0"></attvalue>
+          <attvalue for="v_coord.shares" value="4.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="2804.0"></attvalue>
+          <attvalue for="v_account.name" value="Politika bez cenzury"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="78.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.0152283"></viz:size>
+        <viz:position x="322.5294" y="62.74723"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n25" label="Dívaj sa NAHOR!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/575844642579295"></attvalue>
+          <attvalue for="v_shares" value="4.0"></attvalue>
+          <attvalue for="v_coord.shares" value="4.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="565.0"></attvalue>
+          <attvalue for="v_account.name" value="Dívaj sa NAHOR!"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="78.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.1269035"></viz:size>
+        <viz:position x="215.94598" y="-42.595615"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n26" label="Lidé proti kapitalizmu a vykořisťování">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1100704993289523"></attvalue>
+          <attvalue for="v_shares" value="4.0"></attvalue>
+          <attvalue for="v_coord.shares" value="4.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="1740.0"></attvalue>
+          <attvalue for="v_account.name" value="Lidé proti kapitalizmu a vykořisťování"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="78.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.1269035"></viz:size>
+        <viz:position x="273.8781" y="33.082542"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n27" label="Lidé společně proti kapitalismu">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/224125974343626"></attvalue>
+          <attvalue for="v_shares" value="3.0"></attvalue>
+          <attvalue for="v_coord.shares" value="3.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="2263.0"></attvalue>
+          <attvalue for="v_account.name" value="Lidé společně proti kapitalismu"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="75.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="53.833637" y="-220.31956"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n28" label="Občané proti fašismu na Ukrajině, v ČR, na celém světě.">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/608876889166174"></attvalue>
+          <attvalue for="v_shares" value="3.0"></attvalue>
+          <attvalue for="v_coord.shares" value="3.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="2273.0"></attvalue>
+          <attvalue for="v_account.name" value="Občané proti fašismu na Ukrajině, v ČR, na celém světě."></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="75.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="279.48746" y="98.58272"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+      <node id="n29" label="Svobodné Česko - Stop Corona teror Kadaň">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/356872705344549"></attvalue>
+          <attvalue for="v_shares" value="3.0"></attvalue>
+          <attvalue for="v_coord.shares" value="3.0"></attvalue>
+          <attvalue for="v_account.avg.subscribercount" value="48.0"></attvalue>
+          <attvalue for="v_account.name" value="Svobodné Česko - Stop Corona teror Kadaň"></attvalue>
+          <attvalue for="v_degree" value="25.0"></attvalue>
+          <attvalue for="v_component" value="1.0"></attvalue>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_strength" value="75.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-45.03827" y="-252.7352"></viz:position>
+        <viz:color r="4" g="90" b="141"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1628" source="n0" target="n1" weight="5.0"></edge>
+      <edge id="1629" source="n0" target="n2" weight="5.0"></edge>
+      <edge id="1630" source="n0" target="n3" weight="5.0"></edge>
+      <edge id="1631" source="n0" target="n4" weight="4.0"></edge>
+      <edge id="1632" source="n0" target="n5" weight="4.0"></edge>
+      <edge id="1633" source="n0" target="n6" weight="5.0"></edge>
+      <edge id="1634" source="n0" target="n7" weight="5.0"></edge>
+      <edge id="1635" source="n0" target="n8" weight="4.0"></edge>
+      <edge id="1636" source="n0" target="n9" weight="5.0"></edge>
+      <edge id="1637" source="n0" target="n10" weight="4.0"></edge>
+      <edge id="1638" source="n0" target="n11" weight="3.0"></edge>
+      <edge id="1639" source="n0" target="n12" weight="4.0"></edge>
+      <edge id="1640" source="n0" target="n13" weight="4.0"></edge>
+      <edge id="1641" source="n0" target="n14" weight="3.0"></edge>
+      <edge id="1642" source="n0" target="n15" weight="3.0"></edge>
+      <edge id="1643" source="n0" target="n16" weight="3.0"></edge>
+      <edge id="1644" source="n0" target="n17" weight="3.0"></edge>
+      <edge id="1645" source="n0" target="n18" weight="3.0"></edge>
+      <edge id="1646" source="n0" target="n19" weight="3.0"></edge>
+      <edge id="1647" source="n0" target="n20" weight="3.0"></edge>
+      <edge id="1648" source="n0" target="n21" weight="3.0"></edge>
+      <edge id="1649" source="n0" target="n22" weight="3.0"></edge>
+      <edge id="1650" source="n0" target="n23" weight="3.0"></edge>
+      <edge id="1651" source="n0" target="n24" weight="3.0"></edge>
+      <edge id="1652" source="n0" target="n25" weight="3.0"></edge>
+      <edge id="1653" source="n0" target="n26" weight="3.0"></edge>
+      <edge id="1654" source="n0" target="n27" weight="3.0"></edge>
+      <edge id="1655" source="n0" target="n28" weight="3.0"></edge>
+      <edge id="1656" source="n0" target="n29" weight="3.0"></edge>
+      <edge id="1657" source="n1" target="n2" weight="5.0"></edge>
+      <edge id="1658" source="n1" target="n3" weight="5.0"></edge>
+      <edge id="1659" source="n1" target="n4" weight="4.0"></edge>
+      <edge id="1660" source="n1" target="n8" weight="3.0"></edge>
+      <edge id="1661" source="n1" target="n9" weight="5.0"></edge>
+      <edge id="1662" source="n1" target="n10" weight="4.0"></edge>
+      <edge id="1663" source="n1" target="n11" weight="4.0"></edge>
+      <edge id="1664" source="n1" target="n14" weight="4.0"></edge>
+      <edge id="1665" source="n1" target="n5" weight="3.0"></edge>
+      <edge id="1666" source="n1" target="n6" weight="4.0"></edge>
+      <edge id="1667" source="n1" target="n7" weight="3.0"></edge>
+      <edge id="1668" source="n1" target="n12" weight="3.0"></edge>
+      <edge id="1669" source="n1" target="n13" weight="3.0"></edge>
+      <edge id="1670" source="n1" target="n15" weight="4.0"></edge>
+      <edge id="1671" source="n1" target="n16" weight="3.0"></edge>
+      <edge id="1672" source="n1" target="n17" weight="4.0"></edge>
+      <edge id="1673" source="n1" target="n18" weight="3.0"></edge>
+      <edge id="1674" source="n1" target="n19" weight="4.0"></edge>
+      <edge id="1675" source="n1" target="n20" weight="3.0"></edge>
+      <edge id="1676" source="n1" target="n21" weight="3.0"></edge>
+      <edge id="1677" source="n1" target="n22" weight="3.0"></edge>
+      <edge id="1678" source="n1" target="n23" weight="3.0"></edge>
+      <edge id="1679" source="n1" target="n24" weight="3.0"></edge>
+      <edge id="1680" source="n1" target="n25" weight="3.0"></edge>
+      <edge id="1681" source="n1" target="n26" weight="3.0"></edge>
+      <edge id="1682" source="n1" target="n27" weight="3.0"></edge>
+      <edge id="1683" source="n1" target="n28" weight="3.0"></edge>
+      <edge id="1684" source="n1" target="n29" weight="3.0"></edge>
+      <edge id="1685" source="n2" target="n3" weight="3.0"></edge>
+      <edge id="1686" source="n2" target="n4" weight="3.0"></edge>
+      <edge id="1687" source="n2" target="n5" weight="3.0"></edge>
+      <edge id="1688" source="n2" target="n6" weight="3.0"></edge>
+      <edge id="1689" source="n2" target="n7" weight="3.0"></edge>
+      <edge id="1690" source="n2" target="n9" weight="3.0"></edge>
+      <edge id="1691" source="n2" target="n12" weight="3.0"></edge>
+      <edge id="1692" source="n2" target="n13" weight="3.0"></edge>
+      <edge id="1693" source="n2" target="n15" weight="3.0"></edge>
+      <edge id="1694" source="n2" target="n16" weight="3.0"></edge>
+      <edge id="1695" source="n2" target="n17" weight="3.0"></edge>
+      <edge id="1696" source="n2" target="n18" weight="3.0"></edge>
+      <edge id="1697" source="n2" target="n19" weight="3.0"></edge>
+      <edge id="1698" source="n2" target="n20" weight="3.0"></edge>
+      <edge id="1699" source="n2" target="n21" weight="3.0"></edge>
+      <edge id="1700" source="n2" target="n22" weight="3.0"></edge>
+      <edge id="1701" source="n2" target="n23" weight="3.0"></edge>
+      <edge id="1702" source="n2" target="n24" weight="3.0"></edge>
+      <edge id="1703" source="n2" target="n25" weight="3.0"></edge>
+      <edge id="1704" source="n2" target="n26" weight="3.0"></edge>
+      <edge id="1705" source="n2" target="n27" weight="3.0"></edge>
+      <edge id="1706" source="n2" target="n28" weight="3.0"></edge>
+      <edge id="1707" source="n2" target="n29" weight="3.0"></edge>
+      <edge id="1708" source="n3" target="n4" weight="5.0"></edge>
+      <edge id="1709" source="n3" target="n5" weight="4.0"></edge>
+      <edge id="1710" source="n3" target="n6" weight="8.0"></edge>
+      <edge id="1711" source="n3" target="n7" weight="7.0"></edge>
+      <edge id="1712" source="n3" target="n8" weight="7.0"></edge>
+      <edge id="1713" source="n3" target="n9" weight="10.0"></edge>
+      <edge id="1714" source="n3" target="n10" weight="10.0"></edge>
+      <edge id="1715" source="n3" target="n11" weight="5.0"></edge>
+      <edge id="1716" source="n3" target="n12" weight="5.0"></edge>
+      <edge id="1717" source="n3" target="n13" weight="6.0"></edge>
+      <edge id="1718" source="n3" target="n14" weight="6.0"></edge>
+      <edge id="1719" source="n3" target="n15" weight="6.0"></edge>
+      <edge id="1720" source="n3" target="n16" weight="3.0"></edge>
+      <edge id="1721" source="n3" target="n17" weight="6.0"></edge>
+      <edge id="1722" source="n3" target="n18" weight="4.0"></edge>
+      <edge id="1723" source="n3" target="n19" weight="3.0"></edge>
+      <edge id="1724" source="n3" target="n20" weight="3.0"></edge>
+      <edge id="1725" source="n3" target="n21" weight="3.0"></edge>
+      <edge id="1726" source="n3" target="n22" weight="3.0"></edge>
+      <edge id="1727" source="n3" target="n23" weight="3.0"></edge>
+      <edge id="1728" source="n3" target="n24" weight="3.0"></edge>
+      <edge id="1729" source="n3" target="n25" weight="3.0"></edge>
+      <edge id="1730" source="n3" target="n26" weight="3.0"></edge>
+      <edge id="1731" source="n3" target="n27" weight="3.0"></edge>
+      <edge id="1732" source="n3" target="n28" weight="3.0"></edge>
+      <edge id="1733" source="n3" target="n29" weight="3.0"></edge>
+      <edge id="1734" source="n4" target="n5" weight="4.0"></edge>
+      <edge id="1735" source="n4" target="n6" weight="4.0"></edge>
+      <edge id="1736" source="n4" target="n7" weight="4.0"></edge>
+      <edge id="1737" source="n4" target="n8" weight="4.0"></edge>
+      <edge id="1738" source="n4" target="n9" weight="5.0"></edge>
+      <edge id="1739" source="n4" target="n10" weight="4.0"></edge>
+      <edge id="1740" source="n4" target="n11" weight="3.0"></edge>
+      <edge id="1741" source="n4" target="n14" weight="3.0"></edge>
+      <edge id="1742" source="n4" target="n12" weight="3.0"></edge>
+      <edge id="1743" source="n4" target="n13" weight="3.0"></edge>
+      <edge id="1744" source="n4" target="n15" weight="3.0"></edge>
+      <edge id="1745" source="n4" target="n16" weight="3.0"></edge>
+      <edge id="1746" source="n4" target="n17" weight="3.0"></edge>
+      <edge id="1747" source="n4" target="n18" weight="3.0"></edge>
+      <edge id="1748" source="n4" target="n19" weight="3.0"></edge>
+      <edge id="1749" source="n4" target="n20" weight="3.0"></edge>
+      <edge id="1750" source="n4" target="n21" weight="3.0"></edge>
+      <edge id="1751" source="n4" target="n22" weight="3.0"></edge>
+      <edge id="1752" source="n4" target="n23" weight="3.0"></edge>
+      <edge id="1753" source="n4" target="n24" weight="3.0"></edge>
+      <edge id="1754" source="n4" target="n25" weight="3.0"></edge>
+      <edge id="1755" source="n4" target="n26" weight="3.0"></edge>
+      <edge id="1756" source="n4" target="n27" weight="3.0"></edge>
+      <edge id="1757" source="n4" target="n28" weight="3.0"></edge>
+      <edge id="1758" source="n4" target="n29" weight="3.0"></edge>
+      <edge id="1759" source="n5" target="n6" weight="4.0"></edge>
+      <edge id="1760" source="n5" target="n7" weight="6.0"></edge>
+      <edge id="1761" source="n5" target="n8" weight="4.0"></edge>
+      <edge id="1762" source="n5" target="n9" weight="5.0"></edge>
+      <edge id="1763" source="n5" target="n10" weight="3.0"></edge>
+      <edge id="1764" source="n5" target="n12" weight="3.0"></edge>
+      <edge id="1765" source="n5" target="n13" weight="3.0"></edge>
+      <edge id="1766" source="n5" target="n14" weight="3.0"></edge>
+      <edge id="1767" source="n5" target="n15" weight="4.0"></edge>
+      <edge id="1768" source="n5" target="n16" weight="3.0"></edge>
+      <edge id="1769" source="n5" target="n17" weight="3.0"></edge>
+      <edge id="1770" source="n5" target="n18" weight="3.0"></edge>
+      <edge id="1771" source="n5" target="n19" weight="3.0"></edge>
+      <edge id="1772" source="n5" target="n20" weight="3.0"></edge>
+      <edge id="1773" source="n5" target="n21" weight="3.0"></edge>
+      <edge id="1774" source="n5" target="n22" weight="3.0"></edge>
+      <edge id="1775" source="n5" target="n23" weight="3.0"></edge>
+      <edge id="1776" source="n5" target="n24" weight="3.0"></edge>
+      <edge id="1777" source="n5" target="n25" weight="3.0"></edge>
+      <edge id="1778" source="n5" target="n26" weight="3.0"></edge>
+      <edge id="1779" source="n5" target="n27" weight="3.0"></edge>
+      <edge id="1780" source="n5" target="n28" weight="3.0"></edge>
+      <edge id="1781" source="n5" target="n29" weight="3.0"></edge>
+      <edge id="1782" source="n6" target="n7" weight="7.0"></edge>
+      <edge id="1783" source="n6" target="n8" weight="6.0"></edge>
+      <edge id="1784" source="n6" target="n9" weight="6.0"></edge>
+      <edge id="1785" source="n6" target="n10" weight="5.0"></edge>
+      <edge id="1786" source="n6" target="n11" weight="4.0"></edge>
+      <edge id="1787" source="n6" target="n12" weight="5.0"></edge>
+      <edge id="1788" source="n6" target="n13" weight="5.0"></edge>
+      <edge id="1789" source="n6" target="n14" weight="5.0"></edge>
+      <edge id="1790" source="n6" target="n15" weight="5.0"></edge>
+      <edge id="1791" source="n6" target="n16" weight="3.0"></edge>
+      <edge id="1792" source="n6" target="n17" weight="5.0"></edge>
+      <edge id="1793" source="n6" target="n18" weight="4.0"></edge>
+      <edge id="1794" source="n6" target="n19" weight="3.0"></edge>
+      <edge id="1795" source="n6" target="n20" weight="3.0"></edge>
+      <edge id="1796" source="n6" target="n21" weight="3.0"></edge>
+      <edge id="1797" source="n6" target="n22" weight="3.0"></edge>
+      <edge id="1798" source="n6" target="n23" weight="3.0"></edge>
+      <edge id="1799" source="n6" target="n24" weight="3.0"></edge>
+      <edge id="1800" source="n6" target="n25" weight="3.0"></edge>
+      <edge id="1801" source="n6" target="n26" weight="3.0"></edge>
+      <edge id="1802" source="n6" target="n27" weight="3.0"></edge>
+      <edge id="1803" source="n6" target="n28" weight="3.0"></edge>
+      <edge id="1804" source="n6" target="n29" weight="3.0"></edge>
+      <edge id="1805" source="n7" target="n8" weight="7.0"></edge>
+      <edge id="1806" source="n7" target="n9" weight="6.0"></edge>
+      <edge id="1807" source="n7" target="n10" weight="4.0"></edge>
+      <edge id="1808" source="n7" target="n11" weight="3.0"></edge>
+      <edge id="1809" source="n7" target="n12" weight="5.0"></edge>
+      <edge id="1810" source="n7" target="n13" weight="5.0"></edge>
+      <edge id="1811" source="n7" target="n14" weight="5.0"></edge>
+      <edge id="1812" source="n7" target="n15" weight="5.0"></edge>
+      <edge id="1813" source="n7" target="n16" weight="3.0"></edge>
+      <edge id="1814" source="n7" target="n17" weight="4.0"></edge>
+      <edge id="1815" source="n7" target="n18" weight="4.0"></edge>
+      <edge id="1816" source="n7" target="n19" weight="3.0"></edge>
+      <edge id="1817" source="n7" target="n20" weight="3.0"></edge>
+      <edge id="1818" source="n7" target="n21" weight="3.0"></edge>
+      <edge id="1819" source="n7" target="n22" weight="3.0"></edge>
+      <edge id="1820" source="n7" target="n23" weight="3.0"></edge>
+      <edge id="1821" source="n7" target="n24" weight="3.0"></edge>
+      <edge id="1822" source="n7" target="n25" weight="3.0"></edge>
+      <edge id="1823" source="n7" target="n26" weight="3.0"></edge>
+      <edge id="1824" source="n7" target="n27" weight="3.0"></edge>
+      <edge id="1825" source="n7" target="n28" weight="3.0"></edge>
+      <edge id="1826" source="n7" target="n29" weight="3.0"></edge>
+      <edge id="1827" source="n8" target="n9" weight="6.0"></edge>
+      <edge id="1828" source="n8" target="n10" weight="5.0"></edge>
+      <edge id="1829" source="n8" target="n11" weight="4.0"></edge>
+      <edge id="1830" source="n8" target="n12" weight="4.0"></edge>
+      <edge id="1831" source="n8" target="n13" weight="4.0"></edge>
+      <edge id="1832" source="n8" target="n14" weight="6.0"></edge>
+      <edge id="1833" source="n8" target="n15" weight="4.0"></edge>
+      <edge id="1834" source="n8" target="n17" weight="3.0"></edge>
+      <edge id="1835" source="n8" target="n18" weight="3.0"></edge>
+      <edge id="1836" source="n9" target="n10" weight="9.0"></edge>
+      <edge id="1837" source="n9" target="n11" weight="5.0"></edge>
+      <edge id="1838" source="n9" target="n12" weight="4.0"></edge>
+      <edge id="1839" source="n9" target="n13" weight="4.0"></edge>
+      <edge id="1840" source="n9" target="n14" weight="6.0"></edge>
+      <edge id="1841" source="n9" target="n15" weight="5.0"></edge>
+      <edge id="1842" source="n9" target="n16" weight="3.0"></edge>
+      <edge id="1843" source="n9" target="n17" weight="4.0"></edge>
+      <edge id="1844" source="n9" target="n18" weight="3.0"></edge>
+      <edge id="1845" source="n9" target="n19" weight="3.0"></edge>
+      <edge id="1846" source="n9" target="n20" weight="3.0"></edge>
+      <edge id="1847" source="n9" target="n21" weight="3.0"></edge>
+      <edge id="1848" source="n9" target="n22" weight="3.0"></edge>
+      <edge id="1849" source="n9" target="n23" weight="3.0"></edge>
+      <edge id="1850" source="n9" target="n24" weight="3.0"></edge>
+      <edge id="1851" source="n9" target="n25" weight="3.0"></edge>
+      <edge id="1852" source="n9" target="n26" weight="3.0"></edge>
+      <edge id="1853" source="n9" target="n27" weight="3.0"></edge>
+      <edge id="1854" source="n9" target="n28" weight="3.0"></edge>
+      <edge id="1855" source="n9" target="n29" weight="3.0"></edge>
+      <edge id="1856" source="n10" target="n11" weight="5.0"></edge>
+      <edge id="1857" source="n10" target="n12" weight="3.0"></edge>
+      <edge id="1858" source="n10" target="n13" weight="4.0"></edge>
+      <edge id="1859" source="n10" target="n14" weight="5.0"></edge>
+      <edge id="1860" source="n10" target="n15" weight="4.0"></edge>
+      <edge id="1861" source="n10" target="n17" weight="4.0"></edge>
+      <edge id="1862" source="n11" target="n12" weight="3.0"></edge>
+      <edge id="1863" source="n11" target="n13" weight="4.0"></edge>
+      <edge id="1864" source="n11" target="n14" weight="6.0"></edge>
+      <edge id="1865" source="n11" target="n15" weight="3.0"></edge>
+      <edge id="1866" source="n11" target="n17" weight="3.0"></edge>
+      <edge id="1867" source="n12" target="n13" weight="5.0"></edge>
+      <edge id="1868" source="n12" target="n14" weight="3.0"></edge>
+      <edge id="1869" source="n12" target="n15" weight="3.0"></edge>
+      <edge id="1870" source="n12" target="n16" weight="3.0"></edge>
+      <edge id="1871" source="n12" target="n17" weight="3.0"></edge>
+      <edge id="1872" source="n12" target="n18" weight="4.0"></edge>
+      <edge id="1873" source="n12" target="n19" weight="3.0"></edge>
+      <edge id="1874" source="n12" target="n20" weight="3.0"></edge>
+      <edge id="1875" source="n12" target="n21" weight="3.0"></edge>
+      <edge id="1876" source="n12" target="n22" weight="3.0"></edge>
+      <edge id="1877" source="n12" target="n23" weight="3.0"></edge>
+      <edge id="1878" source="n12" target="n24" weight="3.0"></edge>
+      <edge id="1879" source="n12" target="n25" weight="3.0"></edge>
+      <edge id="1880" source="n12" target="n26" weight="3.0"></edge>
+      <edge id="1881" source="n12" target="n27" weight="3.0"></edge>
+      <edge id="1882" source="n12" target="n28" weight="3.0"></edge>
+      <edge id="1883" source="n12" target="n29" weight="3.0"></edge>
+      <edge id="1884" source="n13" target="n14" weight="4.0"></edge>
+      <edge id="1885" source="n13" target="n15" weight="4.0"></edge>
+      <edge id="1886" source="n13" target="n16" weight="3.0"></edge>
+      <edge id="1887" source="n13" target="n17" weight="4.0"></edge>
+      <edge id="1888" source="n13" target="n18" weight="4.0"></edge>
+      <edge id="1889" source="n13" target="n19" weight="3.0"></edge>
+      <edge id="1890" source="n13" target="n20" weight="3.0"></edge>
+      <edge id="1891" source="n13" target="n21" weight="3.0"></edge>
+      <edge id="1892" source="n13" target="n22" weight="3.0"></edge>
+      <edge id="1893" source="n13" target="n23" weight="3.0"></edge>
+      <edge id="1894" source="n13" target="n24" weight="3.0"></edge>
+      <edge id="1895" source="n13" target="n25" weight="3.0"></edge>
+      <edge id="1896" source="n13" target="n26" weight="3.0"></edge>
+      <edge id="1897" source="n13" target="n27" weight="3.0"></edge>
+      <edge id="1898" source="n13" target="n28" weight="3.0"></edge>
+      <edge id="1899" source="n13" target="n29" weight="3.0"></edge>
+      <edge id="1900" source="n14" target="n15" weight="5.0"></edge>
+      <edge id="1901" source="n14" target="n17" weight="4.0"></edge>
+      <edge id="1902" source="n15" target="n16" weight="4.0"></edge>
+      <edge id="1903" source="n15" target="n17" weight="7.0"></edge>
+      <edge id="1904" source="n15" target="n18" weight="3.0"></edge>
+      <edge id="1905" source="n15" target="n19" weight="3.0"></edge>
+      <edge id="1906" source="n15" target="n20" weight="3.0"></edge>
+      <edge id="1907" source="n15" target="n21" weight="3.0"></edge>
+      <edge id="1908" source="n15" target="n22" weight="3.0"></edge>
+      <edge id="1909" source="n15" target="n23" weight="3.0"></edge>
+      <edge id="1910" source="n15" target="n24" weight="3.0"></edge>
+      <edge id="1911" source="n15" target="n25" weight="3.0"></edge>
+      <edge id="1912" source="n15" target="n26" weight="3.0"></edge>
+      <edge id="1913" source="n15" target="n27" weight="3.0"></edge>
+      <edge id="1914" source="n15" target="n28" weight="3.0"></edge>
+      <edge id="1915" source="n15" target="n29" weight="3.0"></edge>
+      <edge id="1916" source="n16" target="n17" weight="3.0"></edge>
+      <edge id="1917" source="n16" target="n18" weight="3.0"></edge>
+      <edge id="1918" source="n16" target="n19" weight="3.0"></edge>
+      <edge id="1919" source="n16" target="n20" weight="3.0"></edge>
+      <edge id="1920" source="n16" target="n21" weight="3.0"></edge>
+      <edge id="1921" source="n16" target="n22" weight="3.0"></edge>
+      <edge id="1922" source="n16" target="n23" weight="3.0"></edge>
+      <edge id="1923" source="n16" target="n24" weight="3.0"></edge>
+      <edge id="1924" source="n16" target="n25" weight="3.0"></edge>
+      <edge id="1925" source="n16" target="n26" weight="3.0"></edge>
+      <edge id="1926" source="n16" target="n27" weight="3.0"></edge>
+      <edge id="1927" source="n16" target="n28" weight="3.0"></edge>
+      <edge id="1928" source="n16" target="n29" weight="3.0"></edge>
+      <edge id="1929" source="n17" target="n18" weight="3.0"></edge>
+      <edge id="1930" source="n17" target="n19" weight="3.0"></edge>
+      <edge id="1931" source="n17" target="n20" weight="3.0"></edge>
+      <edge id="1932" source="n17" target="n21" weight="3.0"></edge>
+      <edge id="1933" source="n17" target="n22" weight="3.0"></edge>
+      <edge id="1934" source="n17" target="n23" weight="3.0"></edge>
+      <edge id="1935" source="n17" target="n24" weight="3.0"></edge>
+      <edge id="1936" source="n17" target="n25" weight="3.0"></edge>
+      <edge id="1937" source="n17" target="n26" weight="3.0"></edge>
+      <edge id="1938" source="n17" target="n27" weight="3.0"></edge>
+      <edge id="1939" source="n17" target="n28" weight="3.0"></edge>
+      <edge id="1940" source="n17" target="n29" weight="3.0"></edge>
+      <edge id="1941" source="n18" target="n19" weight="3.0"></edge>
+      <edge id="1942" source="n18" target="n20" weight="3.0"></edge>
+      <edge id="1943" source="n18" target="n21" weight="3.0"></edge>
+      <edge id="1944" source="n18" target="n22" weight="3.0"></edge>
+      <edge id="1945" source="n18" target="n23" weight="3.0"></edge>
+      <edge id="1946" source="n18" target="n24" weight="3.0"></edge>
+      <edge id="1947" source="n18" target="n25" weight="3.0"></edge>
+      <edge id="1948" source="n18" target="n26" weight="3.0"></edge>
+      <edge id="1949" source="n18" target="n27" weight="3.0"></edge>
+      <edge id="1950" source="n18" target="n28" weight="3.0"></edge>
+      <edge id="1951" source="n18" target="n29" weight="3.0"></edge>
+      <edge id="1952" source="n19" target="n20" weight="3.0"></edge>
+      <edge id="1953" source="n19" target="n21" weight="3.0"></edge>
+      <edge id="1954" source="n19" target="n22" weight="3.0"></edge>
+      <edge id="1955" source="n19" target="n23" weight="3.0"></edge>
+      <edge id="1956" source="n19" target="n24" weight="3.0"></edge>
+      <edge id="1957" source="n19" target="n25" weight="3.0"></edge>
+      <edge id="1958" source="n19" target="n26" weight="3.0"></edge>
+      <edge id="1959" source="n19" target="n27" weight="3.0"></edge>
+      <edge id="1960" source="n19" target="n28" weight="3.0"></edge>
+      <edge id="1961" source="n19" target="n29" weight="3.0"></edge>
+      <edge id="1962" source="n20" target="n21" weight="3.0"></edge>
+      <edge id="1963" source="n20" target="n22" weight="3.0"></edge>
+      <edge id="1964" source="n20" target="n23" weight="3.0"></edge>
+      <edge id="1965" source="n20" target="n24" weight="3.0"></edge>
+      <edge id="1966" source="n20" target="n25" weight="3.0"></edge>
+      <edge id="1967" source="n20" target="n26" weight="3.0"></edge>
+      <edge id="1968" source="n20" target="n27" weight="3.0"></edge>
+      <edge id="1969" source="n20" target="n28" weight="3.0"></edge>
+      <edge id="1970" source="n20" target="n29" weight="3.0"></edge>
+      <edge id="1971" source="n21" target="n22" weight="3.0"></edge>
+      <edge id="1972" source="n21" target="n23" weight="3.0"></edge>
+      <edge id="1973" source="n21" target="n24" weight="3.0"></edge>
+      <edge id="1974" source="n21" target="n25" weight="3.0"></edge>
+      <edge id="1975" source="n21" target="n26" weight="3.0"></edge>
+      <edge id="1976" source="n21" target="n27" weight="3.0"></edge>
+      <edge id="1977" source="n21" target="n28" weight="3.0"></edge>
+      <edge id="1978" source="n21" target="n29" weight="3.0"></edge>
+      <edge id="1979" source="n22" target="n23" weight="3.0"></edge>
+      <edge id="1980" source="n22" target="n24" weight="3.0"></edge>
+      <edge id="1981" source="n22" target="n25" weight="3.0"></edge>
+      <edge id="1982" source="n22" target="n26" weight="3.0"></edge>
+      <edge id="1983" source="n22" target="n27" weight="3.0"></edge>
+      <edge id="1984" source="n22" target="n28" weight="3.0"></edge>
+      <edge id="1985" source="n22" target="n29" weight="3.0"></edge>
+      <edge id="1986" source="n23" target="n24" weight="4.0"></edge>
+      <edge id="1987" source="n23" target="n25" weight="4.0"></edge>
+      <edge id="1988" source="n23" target="n26" weight="4.0"></edge>
+      <edge id="1989" source="n23" target="n27" weight="3.0"></edge>
+      <edge id="1990" source="n23" target="n28" weight="3.0"></edge>
+      <edge id="1991" source="n23" target="n29" weight="3.0"></edge>
+      <edge id="1992" source="n24" target="n25" weight="4.0"></edge>
+      <edge id="1993" source="n24" target="n26" weight="4.0"></edge>
+      <edge id="1994" source="n24" target="n27" weight="3.0"></edge>
+      <edge id="1995" source="n24" target="n28" weight="3.0"></edge>
+      <edge id="1996" source="n24" target="n29" weight="3.0"></edge>
+      <edge id="1997" source="n25" target="n26" weight="4.0"></edge>
+      <edge id="1998" source="n25" target="n27" weight="3.0"></edge>
+      <edge id="1999" source="n25" target="n28" weight="3.0"></edge>
+      <edge id="2000" source="n25" target="n29" weight="3.0"></edge>
+      <edge id="2001" source="n26" target="n27" weight="3.0"></edge>
+      <edge id="2002" source="n26" target="n28" weight="3.0"></edge>
+      <edge id="2003" source="n26" target="n29" weight="3.0"></edge>
+      <edge id="2004" source="n27" target="n28" weight="3.0"></edge>
+      <edge id="2005" source="n27" target="n29" weight="3.0"></edge>
+      <edge id="2006" source="n28" target="n29" weight="3.0"></edge>
+    </edges>
+  </graph>
+</gexf>
